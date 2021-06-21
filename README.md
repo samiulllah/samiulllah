@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samiulllah
-- 👀 I’m interested in mobile app development, web development and data science.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in mobile app development, web development and Blockchain.
+- 🌱 I’m currently developing in flutter.
 - 💞️ I’m looking to collaborate on Blockchain and Flutter
 - 📫 How to reach me su41437@gmail.com
 
